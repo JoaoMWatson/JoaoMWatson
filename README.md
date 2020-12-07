@@ -29,7 +29,7 @@ const anmol = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "Working on",
-    funFactAboutMe: "I play violin"
+    funFactAboutMe: "I am a musician 🎻(Violin player)"
 };
 ```
 <details>
