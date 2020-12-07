@@ -4,6 +4,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/UselessWatson?style=social">
 
 ## Hi! 
+```javascript
 const anmol = {
     from:{
       state:["Brazil"],
@@ -30,7 +31,11 @@ const anmol = {
     currentProject: "Working on",
     funFactAboutMe: "I play violin"
 };
-
+```
+<details>
+  <summary> <b> Some git status </b></summary>
+  <br>
 <a href="https://github.com/RBranco1/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoMWatson&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
+</details>
