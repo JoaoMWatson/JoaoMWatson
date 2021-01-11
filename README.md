@@ -11,21 +11,21 @@ const anmol = {
       country:["São Paulo"]
     }
     pronouns: "He" | "Him" | "Ele" | "Dele",
-    code: ["Javascript", "Java", "C#", "Python", "Java", "php"],
+    code: ["Javascript", "Java", "C#", "Python", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "astrology", "music"],
     technologies: {
         mobileApp: ["Flutter"],
         frontEnd: {
-            js: ["React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "StyledComponents"],
+            css: ["materialize", "bootstrap"]
         },
         backEnd: {
-            C#: ["EntityFramwork", ".NetCore", "Linq"],
-            python: ["Flask", "Django"]
+            C#: ["EntityFramwork", ".NetCore", ".NetMVC],
+            python: ["Flask", "Django", "FastAPI"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Agil"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
+        misc: ["selenium", "open-cv", "pandas", "matplotlib"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "Working on",
