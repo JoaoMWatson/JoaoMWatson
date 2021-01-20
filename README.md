@@ -1,7 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/JoaoMWatson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-branco-pieroni-837659184/)](https://www.linkedin.com/in/joaomwatson/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brancoraphael@hotmail.com)](mailto:joaopedro.wat22@hotmail.com)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/UselessWatson?style=social">
+
 
 ## Hi! 
 ```javascript
